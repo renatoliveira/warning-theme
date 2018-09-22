@@ -1,0 +1,30 @@
+{
+  "name": "warning-vsc-theme",
+  "version": "1.0.0",
+  "description": "A theme for Visual Studio Code",
+  "keywords": [
+    "vscode",
+    "code",
+    "theme",
+    "vsc",
+    "visual",
+    "studio"
+  ],
+  "publisher": "@renatoliveira",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+            "label": "Warning theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/warningtheme.json"
+          }
+      ]
+  }
+}
