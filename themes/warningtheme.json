@@ -155,7 +155,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a19d81"
+				"foreground": "#a0a0a0"
 			}
 		},
 		{
@@ -209,7 +209,7 @@
 			"name": "diff.header",
 			"scope": "meta.diff, meta.diff.header",
 			"settings": {
-				"foreground": "#75715E"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
